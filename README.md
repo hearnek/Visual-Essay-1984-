@@ -66,6 +66,13 @@ This photograph captures a mass rally during China’s Cultural Revolution, wher
 
 The crowd mirrors Orwell’s depiction of the proles in *1984*. Although the people represented the majority of the population, their ability to challenge authority was weakened through propaganda and manipulation. Just as the Party distracted the proles with entertainment and misinformation, Mao’s government redirected citizens toward organized demonstrations that reinforced government control. The image demonstrates how authoritarian systems can manipulate the public into supporting their own oppression.
 
+<param ve-image 
+       label="Propaganda and the People" 
+       description="Mass rally during China's Cultural Revolution"
+       license="public domain" 
+       url="https://i.guim.co.uk/img/media/f3f1a770a7e8e7f403725b8634721f1bba00a937/0_15_5100_3060/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=6742567b56574794beaaa331c3d1992e">
+
+
 ## Conclusion 
 In conclusion, both 1984 and the Cultural Revolution demonstrate how governments can use censorship, propaganda, and fear to control citizens and strengthen authoritarian power. By rewriting information, silencing opposition, and discouraging independent thought, both the Party and Mao Zedong were able to manipulate society and maintain control. These examples reinforce the idea that when individuality is destroyed and truth is controlled, authoritarian governments can more easily dominate society.
 

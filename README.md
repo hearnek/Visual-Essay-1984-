@@ -44,6 +44,11 @@ The Cultural Revolution propaganda poster directly supports the idea that censor
 
 Like Winston’s world, this propaganda glorified the government and pressured citizens into obedience. Both the poster and Orwell’s novel reveal how authoritarian governments use fear to crush independent thought and maintain control over society.
 
+<param ve-image 
+       label="Control Through Fear and Censorship" 
+       description="Cultural Revolution propaganda poster"
+       license="public domain" 
+       url="https://i.guim.co.uk/img/media/fcbdaa769b9af99483452e0dbeae5e1044a9a40f/32_46_1075_645/master/1075.jpg?width=700&quality=85&auto=format&fit=max&s=4d1711a3e13033b4795177eb0c53eecd">
 ---
 
 ## The Proles of 1984 and the Citizens of China

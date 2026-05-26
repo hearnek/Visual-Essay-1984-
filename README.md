@@ -9,10 +9,8 @@
 
 How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China? 
 
-<param ve-video
-       src="https://www.youtube.com/embed/eFvuzu8vtY8"
-       right
-       width="50%">
+.ve-video https://www.youtube.com/watch?v=q8abIqDaqvE right
+
 
 ## Introduction
 

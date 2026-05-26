@@ -10,9 +10,11 @@
 How does Orwell’s portrayal of events in 1984 convey the effects on society during the Cultural Revolution in China? 
 
 <param ve-video
-       src="https://www.youtube.com/embed/eFvuzu8vtY8"
+       src="https://www.youtube.com/watch?v=eFvuzu8vtY8&t=1s"
        right
        width="50%">
+
+This video of "Anatomy of an Artwork" (YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)), provides a guided tour of the painting and context in which it was created.  A few clips of note are linked below: 
 
 ## Introduction
 

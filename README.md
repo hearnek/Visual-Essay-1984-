@@ -14,7 +14,8 @@ How does Orwell’s portrayal of events in 1984 convey the effects on society du
        right
        width="50%">
 
-This video of "Anatomy of an Artwork" (YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)), provides a guided tour of the painting and context in which it was created.  A few clips of note are linked below: 
+This video of "George Orwell's 1984: Why it still matters - BBC News
+" (YouTube video uploaded by [BBC News](https://www.youtube.com/watch?v=eFvuzu8vtY8&t=1s)), provides an explanation about the last impact George Orwell's 1984 has had on society. 
 
 ## Introduction
 

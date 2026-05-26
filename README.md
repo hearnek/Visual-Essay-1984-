@@ -1,5 +1,4 @@
 <param ve-config 
-       title="1984 & the Cultural Revolution in China" 
        author="Keenan, Alejandro, and Maks"
        banner="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzEzc2l5eW53czNmbnM4cG1xZmd0a3JxMGo0MGhoOXBwYng2ZmQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvcLAZqb1gQco/giphy.gif"
        layout="vertical">

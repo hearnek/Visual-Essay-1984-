@@ -91,7 +91,7 @@ The crowd mirrors Orwell’s depiction of the proles in *1984*. Although the peo
 In conclusion, both 1984 and the Cultural Revolution demonstrate how governments can use censorship, propaganda, and fear to control citizens and strengthen authoritarian power. By rewriting information, silencing opposition, and discouraging independent thought, both the Party and Mao Zedong were able to manipulate society and maintain control. These examples reinforce the idea that when individuality is destroyed and truth is controlled, authoritarian governments can more easily dominate society.
 
 <param ve-image 
-       description="Mass rally during China's Cultural Revolution"
+       description="The Scars of Mao's Cultural Revolution "
        license="public domain" 
        url="https://s.wsj.net/public/resources/images/BN-NV369_bkrvCU_J_20160503104656.jpg">
 

@@ -22,6 +22,12 @@ During 1966 and 1976, China underwent a period known as the Cultural Revolution,
 
 This historical period connects strongly to George Orwell’s *1984*, where society is controlled by a totalitarian government led by “Big Brother.” In Orwell’s dystopian world, the government constantly watches and manipulates citizens through propaganda, censorship, and fear. Winston Smith, the novel’s protagonist, questions the Party’s control and searches for truth and freedom. Both the Cultural Revolution and *1984* demonstrate how authoritarian governments suppress individuality in order to maintain complete control over society.
 
+<param ve-image 
+       label="Big Brother is Watching" 
+       description="Mass rally during China's Cultural Revolution"
+       license="public domain" 
+       url="https://i0.wp.com/obeygiant.com/images/2019/09/Big-Brother-is-Watching-white-1800px.jpg?fit=1327%2C1800&ssl=1">
+
 ---
 
 ## The Censorship and Fear Parallel
